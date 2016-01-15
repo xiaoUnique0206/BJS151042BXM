@@ -7,7 +7,7 @@
 //
 
 #import "ColumnCollectionViewController.h"
-#import "Star.h"
+
 @interface ColumnCollectionViewController ()<UICollectionViewDataSource,UICollectionViewDelegate,UICollectionViewDelegateFlowLayout>
 
 @end
