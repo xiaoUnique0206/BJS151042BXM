@@ -82,7 +82,7 @@
 		6A3C92CF1C48F57B00A65B5C /* iconfont-gengduo-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iconfont-gengduo-2.png"; sourceTree = "<group>"; };
 		6A3C92D01C48F57B00A65B5C /* iconfont-jingxuan.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iconfont-jingxuan.png"; sourceTree = "<group>"; };
 		6A3C92D11C48F57B00A65B5C /* iconfont-shandianline.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iconfont-shandianline.png"; sourceTree = "<group>"; };
-		6A3C92D21C48F57B00A65B5C /* iconfont-wangluokeji.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iconfont-wangluokeji.png"; sourceTree = "<group>"; };
+		6A3C92D21C48F57B00A65B5C /* iconfont-wangluokeji.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iconfont-wangluokeji.png"; path = "../../icnfont/iconfont-wangluokeji.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -163,6 +163,7 @@
 		6A3C92791C48E7E400A65B5C /* BaseClass */ = {
 			isa = PBXGroup;
 			children = (
+				6A3C92D21C48F57B00A65B5C /* iconfont-wangluokeji.png */,
 			);
 			path = BaseClass;
 			sourceTree = "<group>";
@@ -264,7 +265,6 @@
 				6A3C92CF1C48F57B00A65B5C /* iconfont-gengduo-2.png */,
 				6A3C92D01C48F57B00A65B5C /* iconfont-jingxuan.png */,
 				6A3C92D11C48F57B00A65B5C /* iconfont-shandianline.png */,
-				6A3C92D21C48F57B00A65B5C /* iconfont-wangluokeji.png */,
 			);
 			path = icnfont;
 			sourceTree = "<group>";
