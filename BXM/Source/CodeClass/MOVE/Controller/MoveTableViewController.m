@@ -6,7 +6,7 @@
 //  Copyright © 2016年 宋庆亮. All rights reserved.
 //
 
-#import "MoveTableViewController.h"
+#import "MoveTableViewController"
 
 @interface MoveTableViewController ()
 
