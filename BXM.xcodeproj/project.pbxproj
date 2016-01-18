@@ -16,7 +16,6 @@
 		6A3C92D51C48F57B00A65B5C /* iconfont-gengduo-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 6A3C92CF1C48F57B00A65B5C /* iconfont-gengduo-2.png */; };
 		6A3C92D61C48F57B00A65B5C /* iconfont-jingxuan.png in Resources */ = {isa = PBXBuildFile; fileRef = 6A3C92D01C48F57B00A65B5C /* iconfont-jingxuan.png */; };
 		6A3C92D71C48F57B00A65B5C /* iconfont-shandianline.png in Resources */ = {isa = PBXBuildFile; fileRef = 6A3C92D11C48F57B00A65B5C /* iconfont-shandianline.png */; };
-		6A3C92D81C48F57B00A65B5C /* iconfont-wangluokeji.png in Resources */ = {isa = PBXBuildFile; fileRef = 6A3C92D21C48F57B00A65B5C /* iconfont-wangluokeji.png */; };
 		C25DF0B01C4C817A007BE533 /* ColumnCollectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C25DF0871C4C817A007BE533 /* ColumnCollectionViewController.m */; };
 		C25DF0B11C4C817A007BE533 /* Column.m in Sources */ = {isa = PBXBuildFile; fileRef = C25DF08A1C4C817A007BE533 /* Column.m */; };
 		C25DF0B21C4C817A007BE533 /* ColumnCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = C25DF08D1C4C817A007BE533 /* ColumnCollectionViewCell.m */; };
@@ -54,7 +53,6 @@
 		6A3C92CF1C48F57B00A65B5C /* iconfont-gengduo-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iconfont-gengduo-2.png"; sourceTree = "<group>"; };
 		6A3C92D01C48F57B00A65B5C /* iconfont-jingxuan.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iconfont-jingxuan.png"; sourceTree = "<group>"; };
 		6A3C92D11C48F57B00A65B5C /* iconfont-shandianline.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iconfont-shandianline.png"; sourceTree = "<group>"; };
-		6A3C92D21C48F57B00A65B5C /* iconfont-wangluokeji.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iconfont-wangluokeji.png"; sourceTree = "<group>"; };
 		C25DF0861C4C817A007BE533 /* ColumnCollectionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ColumnCollectionViewController.h; sourceTree = "<group>"; };
 		C25DF0871C4C817A007BE533 /* ColumnCollectionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ColumnCollectionViewController.m; sourceTree = "<group>"; };
 		C25DF0891C4C817A007BE533 /* Column.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Column.h; sourceTree = "<group>"; };
@@ -162,7 +160,6 @@
 		6A3C92791C48E7E400A65B5C /* BaseClass */ = {
 			isa = PBXGroup;
 			children = (
-				6A3C92D21C48F57B00A65B5C /* iconfont-wangluokeji.png */,
 			);
 			path = BaseClass;
 			sourceTree = "<group>";
@@ -433,7 +430,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				6A3C92D51C48F57B00A65B5C /* iconfont-gengduo-2.png in Resources */,
-				6A3C92D81C48F57B00A65B5C /* iconfont-wangluokeji.png in Resources */,
 				C25DF0B31C4C817A007BE533 /* ColumnCollectionViewCell.xib in Resources */,
 				C25DF0B71C4C817A007BE533 /* MoveTableViewCell.xib in Resources */,
 				C25DF0BB1C4C817A007BE533 /* NewsTableViewCell.xib in Resources */,
