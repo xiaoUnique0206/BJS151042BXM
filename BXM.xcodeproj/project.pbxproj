@@ -54,9 +54,6 @@
 		6A3C92CF1C48F57B00A65B5C /* iconfont-gengduo-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iconfont-gengduo-2.png"; sourceTree = "<group>"; };
 		6A3C92D01C48F57B00A65B5C /* iconfont-jingxuan.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iconfont-jingxuan.png"; sourceTree = "<group>"; };
 		6A3C92D11C48F57B00A65B5C /* iconfont-shandianline.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iconfont-shandianline.png"; sourceTree = "<group>"; };
-<<<<<<< HEAD
-		6A3C92D21C48F57B00A65B5C /* iconfont-wangluokeji.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iconfont-wangluokeji.png"; path = "../../icnfont/iconfont-wangluokeji.png"; sourceTree = "<group>"; };
-=======
 		6A3C92D21C48F57B00A65B5C /* iconfont-wangluokeji.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iconfont-wangluokeji.png"; sourceTree = "<group>"; };
 		C25DF0861C4C817A007BE533 /* ColumnCollectionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ColumnCollectionViewController.h; sourceTree = "<group>"; };
 		C25DF0871C4C817A007BE533 /* ColumnCollectionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ColumnCollectionViewController.m; sourceTree = "<group>"; };
@@ -86,7 +83,6 @@
 		C25DF0AD1C4C817A007BE533 /* SelectTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SelectTableViewCell.h; sourceTree = "<group>"; };
 		C25DF0AE1C4C817A007BE533 /* SelectTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SelectTableViewCell.m; sourceTree = "<group>"; };
 		C25DF0AF1C4C817A007BE533 /* SelectTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SelectTableViewCell.xib; sourceTree = "<group>"; };
->>>>>>> 1f2b20ca7a4fdf1ac03571ea49df515faeb233cc
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
