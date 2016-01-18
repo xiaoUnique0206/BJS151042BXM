@@ -115,16 +115,15 @@
 		6A3C925F1C48E76800A65B5C /* BXM */ = {
 			isa = PBXGroup;
 			children = (
-				6A3C92CC1C48F57B00A65B5C /* icnfont */,
 				6A3C92661C48E76800A65B5C /* ViewController.h */,
 				6A3C92671C48E76800A65B5C /* ViewController.m */,
+				6A3C92B21C48E9EF00A65B5C /* PchFile.pch */,
 				6A3C92771C48E7E400A65B5C /* Source */,
 				6A3C92691C48E76800A65B5C /* Main.storyboard */,
 				6A3C926C1C48E76800A65B5C /* Assets.xcassets */,
 				6A3C926E1C48E76800A65B5C /* LaunchScreen.storyboard */,
 				6A3C92711C48E76800A65B5C /* Info.plist */,
 				6A3C92601C48E76800A65B5C /* Supporting Files */,
-				6A3C92B21C48E9EF00A65B5C /* PchFile.pch */,
 			);
 			path = BXM;
 			sourceTree = "<group>";
@@ -199,6 +198,7 @@
 		6A3C92841C48E7E400A65B5C /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				6A3C92CC1C48F57B00A65B5C /* icnfont */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -218,7 +218,8 @@
 				6A3C92D11C48F57B00A65B5C /* iconfont-shandianline.png */,
 				6A3C92D21C48F57B00A65B5C /* iconfont-wangluokeji.png */,
 			);
-			path = icnfont;
+			name = icnfont;
+			path = ../../icnfont;
 			sourceTree = "<group>";
 		};
 		C25DF0841C4C817A007BE533 /* COLUMN */ = {
